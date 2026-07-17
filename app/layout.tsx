@@ -22,6 +22,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://ryphtech.com"),
   title: {
     default: 'RyphTech - Modern Web Development & Technology Solutions',
     template: '%s | RyphTech',
