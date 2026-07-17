@@ -10,6 +10,7 @@ const footerLinks = {
     { name: "About", href: "/about" },
     { name: "Team", href: "/team" },
     { name: "Projects", href: "/projects" },
+    { name: "Blog", href: "/blog" },
     { name: "Contact", href: "/contact" },
   ],
   Services: [
