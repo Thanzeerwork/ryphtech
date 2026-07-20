@@ -13,7 +13,6 @@ const navLinks = [
   { name: "Services", href: "/services" },
   { name: "Projects", href: "/projects" },
   { name: "Team", href: "/team" },
-  { name: "Blog", href: "/blog" },
 ];
 
 export function Navigation() {
